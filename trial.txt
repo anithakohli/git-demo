@@ -1,1 +1,7 @@
 Hi welcome to new learnings
+
+##some other text
+
+his command updates the index by adding the changes for those files only about which git already know i.e. 
+changes in tacked files only. Therefore, it will add only modified & deleted files from the current
+project to the staging area and will skip all new files / folders.
